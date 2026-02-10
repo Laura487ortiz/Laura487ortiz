@@ -38,6 +38,10 @@ In the marketing area, I am interested in brand creation and corporate identity,
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
+<a href= "https://www.instagram.com/vale_ortizz_21?igsh=MXI4YWxmbmFmZW10YQ%3D%3D&utm_source=qr">
+
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
 <h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=Laura487ortiz&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Laura487ortiz)
