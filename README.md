@@ -37,3 +37,10 @@ In the marketing area, I am interested in brand creation and corporate identity,
 <a href= "https://www.linkedin.com/in/laura-ortiz-0618a0329?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Laura487ortiz&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Laura487ortiz)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Laura487ortiz&theme=material-palenight)](https://github.com/Laura487ortiz)
+</div>
+
